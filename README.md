@@ -1,17 +1,17 @@
-### Hola, Soy Vinicio - aka [VinicioSevilla][website] 👋
+### Hi there, I'm Vinicio - aka [VinicioSevilla][website] 👋
 
 [![Website](https://img.shields.io/website?label=VinicioSevilla.com&style=for-the-badge&url=https%3A%2F%2Fviniciosevilla.com)](https://viniciosevilla.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/VinicioSevilla?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVinicioSevilla&screen_name=VinicioSevilla)
 
-## Esposo, Padre, Developer, e Investigador!!
+## I'm a Husband, Father, Developer, and Researcher!!
 
-- 🔭 Estoy trabajando en mi primer video tutorial
-- 🌱 Aprendo todo lo que es tecnologia 🤣
-- 👯 Puedo colaborar con otros Developers
-- 🥅 Objetivo 2020: Aprender Flask y Django
-- ⚡ Hobby: Me encanta el soccer y el ciclismo
+- 🔭 I just working on my first course!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators/developers
+- 🥅 2020 Goals: Learning Flask and Django
+- ⚡ Fun fact: I love soccer and cycling
 
-### Conéctacte a través:
+### Connect with me:
 
 [<img align="left" alt="VinicioSevilla.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="VinicioSevilla | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -21,7 +21,7 @@
 
 <br />
 
-### Languajes y Otros:
+### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
@@ -35,7 +35,7 @@
 ---
 
 <details>
-  <summary>:zap: Actividad Reciente GitHub</summary>
+  <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
@@ -48,9 +48,9 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Estadísticas</summary>
+  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="VinicioSevillas' GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=VinicioSevilla&show_icons=true&hide_border=true" />
 
 </details>
 
