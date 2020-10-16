@@ -5,13 +5,13 @@
 
 ## Esposo, Padre, Developer, e Investigador!!
 
-- 🔭 Estoy trabajando en mi primer cidoe tutorial
-- 🌱 Aprendo de todo lo que es tecnologia 🤣
+- 🔭 Estoy trabajando en mi primer video tutorial
+- 🌱 Aprendo todo lo que es tecnologia 🤣
 - 👯 Puedo colaborar con otros Developers
 - 🥅 Objetivo 2020: Aprender Flask y Django
 - ⚡ Hobby: Me encanta el soccer y el ciclismo
 
-### Connect with me:
+### Conéctacte a través:
 
 [<img align="left" alt="VinicioSevilla.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="VinicioSevilla | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -21,7 +21,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languajes y Otros:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
@@ -35,7 +35,7 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Actividad Reciente GitHub</summary>
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
@@ -48,7 +48,7 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Estadísticas</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
