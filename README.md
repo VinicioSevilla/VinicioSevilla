@@ -56,6 +56,6 @@
 
 [website]: https://VinicioSevilla.com
 [twitter]: https://twitter.com/VinicioSevilla
-[youtube]: https://youtube.com/VinicioSevilla
+[youtube]: https://www.youtube.com/channel/UC08L0Vzvb4qAOIK1eC6MQfQ/
 [instagram]: https://instagram.com/VinicioSevilla
 [linkedin]: https://linkedin.com/in/VinicioSevilla
